@@ -1,0 +1,4 @@
+{
+  "dotnetAcquisitionExtension.existingDotnetPath": "/usr/bin/dotnet",
+  "dotnetAcquisitionExtension.allowInvalidPaths": true
+}
